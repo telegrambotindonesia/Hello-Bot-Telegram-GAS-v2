@@ -4,7 +4,7 @@ Pembelajar baru membuat bot GRATIS, sebaiknya mulai dari sini.
 
 Link Triller: [@botindonesia](https://t.me/bot_indonesia/46)
 
-![triller ss](https://raw.githubusercontent.com/banghasan/Hello-Bot-Tellegram-GAS-Libv2/main/asset/triller.jpg | width=100)
+![triller ss](https://raw.githubusercontent.com/banghasan/Hello-Bot-Tellegram-GAS-Libv2/main/asset/triller.jpg)
 
 ### 💁🏽‍♂️ Hello Bot
 
